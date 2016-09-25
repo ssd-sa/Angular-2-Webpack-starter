@@ -29,7 +29,7 @@ Run `npm run test` to execute the unit tests via [Karma](https://karma-runner.gi
 
 ## Help
 
-[angular-2-webpack-basic-starter README](https://github.com/ssd-sa/Angular-2-Webpack-starter/blob/master/README.md).
+[Angular-2-Webpack-starter README](https://github.com/ssd-sa/Angular-2-Webpack-starter/blob/master/README.md).
 
 ## License
 
