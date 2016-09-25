@@ -1,14 +1,14 @@
-# Angular 2 Webpack basic starter
+# Angular 2 Webpack starter
 
 Angular 2 Webpack starter with most important Webpack loaders (sass, script, style, css, ...).
 
 ## Installation
 First Clone/Download our repo.
 ```bash
-git clone https://github.com/ssd-sa/angular-2-webpack-basic-starter.git
-cd angular-2-webpack-basic-starter
+git clone git@github.com:ssd-sa/Angular-2-Webpack-starter.git
+cd Angular-2-Webpack-starter
 ```
-Second, install angular-2-webpack-basic-starter using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+Second, install Angular-2-Webpack-starter using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 ```bash
 npm install
 ```
@@ -29,7 +29,7 @@ Run `npm run test` to execute the unit tests via [Karma](https://karma-runner.gi
 
 ## Help
 
-[angular-2-webpack-basic-starter README](https://github.com/angular/angular-2-webpack-basic-starter/blob/master/README.md).
+[angular-2-webpack-basic-starter README](https://github.com/ssd-sa/Angular-2-Webpack-starter/blob/master/README.md).
 
 ## License
 
